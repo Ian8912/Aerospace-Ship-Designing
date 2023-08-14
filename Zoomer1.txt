@@ -1,0 +1,9 @@
+Contents of Zoomer1.txt
+ 
+Ship Name:          Zoomer1
+Ship Mass:          1000.0kg
+Acceleration:       10.0m/s2
+Impulse:            22.6Ns/kg
+Max Altitude:       461.3km
+Designer name:      Robert Goddard
+File saved at:      1687935624

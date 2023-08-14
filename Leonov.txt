@@ -1,0 +1,9 @@
+Contents of Leonov.txt
+ 
+Ship Name:          Leonov
+Ship Mass:          1000.0kg
+Acceleration:       2.3m/s2
+Impulse:            8.3Ns/kg
+Max Altitude:       175.8km
+Designer name:      Scott Manley
+File saved at:      1687929907

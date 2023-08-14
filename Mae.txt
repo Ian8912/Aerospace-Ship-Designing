@@ -1,0 +1,9 @@
+Contents of Mae.txt
+ 
+Ship Name:          Mae
+Ship Mass:          500.0kg
+Acceleration:       10.4m/s2
+Impulse:            22.9Ns/kg
+Max Altitude:       469.0km
+Designer name:      Thomas Harris
+File saved at:      1687929851
